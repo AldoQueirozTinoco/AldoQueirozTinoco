@@ -6,4 +6,3 @@ Estudante de tecnologia da informação na UFRN(2023).
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AldoQueirozTinoco)](https://github.com/anuraghazra/github-readme-stats)
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AldoQueirozTinoco&theme=dark&background=000000)](https://git.io/streak-stats)
   
-file:///C:/Users/imaen/Downloads/javascript.svg
