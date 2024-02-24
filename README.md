@@ -1,7 +1,5 @@
 Olá!, me chamo Aldo Queiroz! 
 
-Estou tentando encontrar uma linguagem de programação que eu goste xd.
-No momento, estou aprendendo HTML e CSS!
 Estudante de Tecnologia da Informação na UFRN(2023).
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AldoQueirozTinoco&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
